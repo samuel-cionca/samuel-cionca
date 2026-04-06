@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Samuel 👋</h1>
 <p align="center">
-  <i>Designing and maintaining software that runs reliably in real environments</i>
+  <i>I build systems that run in production, and keep them running.</i>
 </p>
 
 <p align="center">
@@ -19,21 +19,26 @@
 
 ## 🧠 About Me
 
-I enjoy working close to the foundations of software - backend services, infrastructure, and the systems that keep applications running smoothly.
+I build and operate production systems end-to-end — from backend services to infrastructure and automation.
 
-I’m particularly interested in:
-- understanding system behavior in real-world scenarios
-- making architecture and trade-offs clear and explicit
-- improving existing codebases with care and intention
+My focus is on solving real-world problems across system boundaries:
+- integrating services  
+- automating workflows  
+- improving reliability and operational efficiency  
 
-Some projects here are refined, others are exploratory - all are part of continuous learning.
+I’m comfortable working across backend, cloud infrastructure, and internal tooling, and I prefer pragmatic solutions that work in production over theoretical perfection.
 
-I believe good software is:
-- readable and approachable
-- reliable in production
-- thoughtful about long-term maintenance
+I care about systems that work reliably in production and reduce complexity for the people using them.
 
-Outside of coding, I enjoy good food, sports, reading, and spending time offline.
+---
+
+## ⚡ What I focus on
+
+- backend systems & APIs  
+- cloud infrastructure (AWS)  
+- CI/CD and automation  
+- system integration & workflows  
+- internal tools and operational efficiency  
 
 ---
 
@@ -43,35 +48,31 @@ Outside of coding, I enjoy good food, sports, reading, and spending time offline
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,bash,c,linux,git,vim,docker,aws,postgres,react,nextjs,django,firebase,npm,github,vscode,pycharm,windows" />
 </p>
 
-**Backend & Frameworks**
-- Node.js, TypeScript, JavaScript
-- Python, Django & Django REST Framework
-- Strapi, Medusa.js
-- Next.js (API routes & backend integration)
-- WordPress (custom setups & integrations)
+**Backend & APIs**
+- Node.js, TypeScript, Python  
+- REST APIs, authentication, data pipelines  
+- Strapi, Medusa.js, Django  
 
 **Frontend (when needed)**
-- HTML, CSS
-- React, Next.js
+- React, Next.js, HTML, CSS  
 
-**Infrastructure & Cloud (AWS)**
-- EC2, Lambda, S3, RDS
-- IAM, VPC, Route 53
-- CloudFormation
-- AWS CLI
-- CI/CD pipelines (GitHub Actions)
+**Cloud & Infrastructure**
+- AWS (EC2, Lambda, S3, RDS, IAM, VPC, Route 53)  
+- Docker, Linux  
+- CI/CD (GitHub Actions), AWS CLI  
+- Infrastructure as Code (CloudFormation – basic)  
 
-**Systems & Tooling**
-- Linux-first environments (Debian, Ubuntu, Linux Mint)
-- Bash & shell scripting
-- Docker & containerized workflows
-- Git (clean history, meaningful commits)
-- Vim / terminal-based workflows
+**Automation & Integration**
+- Workflow automation (n8n)  
+- System integration & service orchestration  
+- Scripting (Bash)  
 
-**Knowledge & Utilities**
-- Firebase (auth, messaging, backend integration)
-- npm ecosystem
-- Obsidian (knowledge management)
+**Databases**
+- PostgreSQL  
+
+**Tooling**
+- Git, Vim / Neovim, terminal-first workflows  
+- VS Code, PyCharm  
 
 ---
 
@@ -80,28 +81,23 @@ Outside of coding, I enjoy good food, sports, reading, and spending time offline
 I spend most of my time in terminal-centric environments and enjoy workflows that are fast, transparent, and scriptable.
 
 **Editor & Navigation**
-- Vim / Neovim
-- tmux (session-based workflows, remote work, long-running tasks)
+- Vim / Neovim  
+- tmux (session-based workflows, remote work, long-running tasks)  
 
 **Terminal**
-- WezTerm (GPU-accelerated, highly configurable)
+- WezTerm  
 
 **Shell & CLI**
-- zsh
-- Bash & shell scripting
-- Linux-first setup
-- Git via CLI (rebase-aware, clean history)
-
-**IDEs & Editors**
-- VS Code
-- PyCharm
-- Comfortable switching between terminal-centric workflows and full-featured IDEs when it fits the task
+- zsh  
+- Bash & shell scripting  
+- Linux-first setup  
+- Git via CLI (rebase-aware, clean history)  
 
 **Tooling & Habits**
-- Docker for local parity and experimentation
-- AWS CLI for infrastructure work
-- CI/CD pipelines as code
-- Preference for small, composable tools over heavy abstractions
+- Docker for local parity and experimentation  
+- AWS CLI for infrastructure work  
+- CI/CD pipelines as code  
+- Preference for small, composable tools over heavy abstractions  
 
 I adapt my tools to the problem at hand, rather than forcing one workflow everywhere.
 
@@ -109,42 +105,48 @@ I adapt my tools to the problem at hand, rather than forcing one workflow everyw
 
 ## 🏢 Microsoft & Endpoint Administration
 
-I also have experience working with Microsoft admin and endpoint tooling, including:
-- Microsoft Entra ID (identity & access management)
-- Intune (device and policy management)
-- Bitdefender (endpoint security & protection)
+- Microsoft Entra ID (identity & access management)  
+- Intune (device and policy management)  
+- Endpoint security (Bitdefender)  
 
-This helps me work effectively in mixed environments that combine cloud infrastructure, application development, and managed IT systems.
+Experience working in environments that combine cloud infrastructure, application development, and managed IT systems.
 
 ---
 
 ## 🧪 Tinkering & Home Lab
 
-Outside of work, I enjoy experimenting with systems in a home lab environment.
+Outside of work, I experiment with systems in a home lab environment.
 
-This usually involves:
-- self-hosted services
-- testing infrastructure setups
-- automation and deployment experiments
-- exploring performance, networking, and reliability topics
+This includes:
+- self-hosted services  
+- infrastructure setups  
+- automation and deployment experiments  
+- performance, networking, and reliability topics  
 
-I’m drawn to this kind of tinkering because it reflects how I like to approach everyday life as well - automating repetitive or low-value tasks to free up time and attention for things that matter more.
+The goal is always the same: reduce friction, remove manual work, and build systems that stay out of the way.
 
-Whether it's infrastructure, scripts, or practical tools at home, the goal is the same: reduce friction, remove busywork, and create space for learning and focus.
+---
+
+## 🧭 How I think about systems
+
+- Prefer working systems over perfect abstractions  
+- Automate anything that feels repetitive  
+- Make complexity visible, then reduce it  
+- Optimize for long-term reliability, not short-term speed  
 
 ---
 
 ## 🧩 What you'll find here
 
-Many projects I work on are private or production systems, so this space focuses more on learning, experimentation, and documentation.
+Most of my production work is private. This repository reflects learning, experimentation, and practical implementations:
 
-- backend-focused projects and APIs
-- infrastructure and automation work
-- practical tools and utilities
-- prototypes and learning-focused experiments
+- backend-focused projects and APIs  
+- infrastructure and automation work  
+- tools and utilities  
+- prototypes and experiments  
 
 ---
 
 <p align="center">
-  <i>Always learning. Always improving - progress over perfection.</i>
+  <i>Build. Run. Improve. Repeat.</i>
 </p>
