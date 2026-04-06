@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-I build and operate production systems end-to-end — from backend services to infrastructure and automation.
+I build and operate production systems end-to-end, from backend services to infrastructure and automation.
 
 My focus is on solving real-world problems across system boundaries:
 - integrating services  
